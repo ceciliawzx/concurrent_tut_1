@@ -1,0 +1,6 @@
+/Users/ceciliawang/Desktop/skeleton_to_upload/cmake-build-debug/CMakeFiles/demo_recursive_mutexes.dir
+/Users/ceciliawang/Desktop/skeleton_to_upload/cmake-build-debug/CMakeFiles/demo_shared_mutexes.dir
+/Users/ceciliawang/Desktop/skeleton_to_upload/cmake-build-debug/CMakeFiles/demo_random_sets.dir
+/Users/ceciliawang/Desktop/skeleton_to_upload/cmake-build-debug/CMakeFiles/demo_histograms.dir
+/Users/ceciliawang/Desktop/skeleton_to_upload/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/ceciliawang/Desktop/skeleton_to_upload/cmake-build-debug/CMakeFiles/rebuild_cache.dir

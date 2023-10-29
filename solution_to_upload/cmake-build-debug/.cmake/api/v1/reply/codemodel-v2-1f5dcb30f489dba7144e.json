@@ -1,0 +1,87 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.13"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "hashsets",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "demo_histograms::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-demo_histograms-Debug-32847d62a5a09d1051dc.json",
+					"name" : "demo_histograms",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "demo_random_sets::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-demo_random_sets-Debug-12c3ccd30bf869faf052.json",
+					"name" : "demo_random_sets",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "demo_recursive_mutexes::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-demo_recursive_mutexes-Debug-aa6faee47bf025fbe895.json",
+					"name" : "demo_recursive_mutexes",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "demo_shared_mutexes::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-demo_shared_mutexes-Debug-815e827f30b823334404.json",
+					"name" : "demo_shared_mutexes",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/ceciliawang/Desktop/solution_to_upload/cmake-build-debug",
+		"source" : "/Users/ceciliawang/Desktop/solution_to_upload"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}
